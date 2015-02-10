@@ -1,1 +1,0 @@
-# dmitriy-serdyuk.github.io
