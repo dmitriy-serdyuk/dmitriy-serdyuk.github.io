@@ -18,18 +18,18 @@ Personal
 Education
 ---------
 
-- [University of Montreal][udem], Department of Computer Science and Operations Research,
+- [University of Montreal][udem], Department of Computer Science and Operations Research,  
   Ph.D. student 2014 -- present
     - Advisor: [Yoshua Bengio][bengio]
     - Area of study: Machine learning, deep learning
 
-- [Saint-Petersburg Academic University][au], Information technologies department,
+- [Saint-Petersburg Academic University][au], Information technologies department,  
   M.Sc. student 2011 -- 2013, graduated with distinction
     - Advisor: [Sergey Nikolenko][nikolenko]
     - Area of study: Theoretical computer science, Machine learning 
     - GPA: 4.00
 
-- [Saint-Petersburg State Politechnical University][spbstu], Solid state physics department,
+- [Saint-Petersburg State Politechnical University][spbstu], Solid state physics department,  
   B.Sc. in Technical Physics, 2007 -- 2011
     - Advisor: Alexander G. Banshikov
     - Area of study: Epitaxial dielectrics growth
@@ -54,7 +54,7 @@ Experience
     for converting text, html and doc files into ePub format ([eBookSearch][ebookservice]), 
     2010 -- 2011 
 
-- Research in Bayessian rating systems with Sergey Nikolenko, 2011 -- 2012
+- Research in Bayesian rating systems with Sergey Nikolenko, 2011 -- 2012
 
 - Intern in EMC corporation(machine learning, statistical analysis and data science), 
     2012 -- 2013
@@ -64,7 +64,7 @@ Experience
 Fields of Research Interest
 ---------------------------
 
-- Machine learning, Deep leaRning, Neural networks, Probabilistic Bayesian models, 
+- Machine learning, Deep learning, Neural networks, Probabilistic Bayesian models, 
     Graphical probabilistic models, Rating systems
 
 
@@ -96,7 +96,7 @@ Filed patents
 Skills summary
 --------------
 
-- Expierence in data aggretating and statistical analysis 
+- Experience in data aggregating and statistical analysis 
 - Machine learning algorithms, Theano, SQL, Greenplum, PL/R, MapReduce, Hadoop, SAP HANA
 - Programming Languages: 
     - C++
