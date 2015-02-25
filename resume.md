@@ -109,15 +109,11 @@ Skills summary
 - Certificate: Advanced English course at the St. Petersburg Academic University in 2013
 
 
-[My blog][blog]
-
-
 [udem]: http://www.umontreal.ca/english/index.html
 [bengio]: http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html
 [au]: http://spbau.ru/main_eng/info_main_eng
 [nikolenko]: http://logic.pdmi.ras.ru/~sergey/
 [spbstu]: http://www.spbstu-eng.ru/
-[blog]: /blog.html
 [amse]: http://amse.ru/about.php
 [csclub]: http://logic.pdmi.ras.ru/csclub/en/about
 [ebookservice]: http://code.google.com/p/ebook-service/
