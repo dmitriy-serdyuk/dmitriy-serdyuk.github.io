@@ -1,8 +1,8 @@
 # Site settings
-title: Dmitry (Dima) Serdyuk
+title: Dmitriy (Dima) Serdyuk
 email: serdyuk dot dmitriy at gmail dot com
 description: > 
-  Dmitry Serdyuk's personal page
+  Dmitriy Serdyuk's personal page
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dmitriy-serdyuk.github.io" # the base hostname & protocol for your site
 
