@@ -7,14 +7,6 @@ University of Montreal
 Department of Computer Science and Operations Research 
 
 
-Personal
---------
-
-- Date of birth: May 29th 1990
-
-- Citizenship: Russia
-
-
 Education
 ---------
 
@@ -44,7 +36,6 @@ Additional Education
 - [Computer Science Student Club at PDMI, St. Petersburg][csclub], Active member since 2010
 
 
-
 Experience
 ----------
 
@@ -71,9 +62,7 @@ Fields of Research Interest
 Publications
 ------------
 
-- [Bayesian Rating Systems with Additional Information on Tournament Results][spiiras]; 
-Sergey Nikolenko, Alexander Sirotkin, Dmitriy Serdyuk; December 8, 2011 
-(authors in alphabetical order)
+[Google Scholar link][scholar]
 
 Conference and Seminar Presentations
 ------------------------------------
@@ -121,3 +110,4 @@ Skills summary
 [kyoto]: http://www.iip.ist.i.kyoto-u.ac.jp/mlss12/doku.php?id=poster_titles
 [optimization]: http://www12.cs.fau.de/edu/fa/2012/Course2/C2_Topics.html
 [factor_graphs]: http://mit.spbau.ru/node/262
+[scholar]: https://scholar.google.ca/citations?user=PsKlNzUAAAAJ&hl=en
