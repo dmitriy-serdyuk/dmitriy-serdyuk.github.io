@@ -11,6 +11,7 @@ Education
 ---------
 
 - [University of Montreal][udem], Department of Computer Science and Operations Research,  
+  Montreal Institute for Learning Algorithms (MILA)
   Ph.D. student 2014 -- present
     - Advisor: [Yoshua Bengio][bengio]
     - Area of study: Machine learning, deep learning
@@ -55,8 +56,8 @@ Experience
 Fields of Research Interest
 ---------------------------
 
-- Machine learning, Deep learning, Neural networks, Probabilistic Bayesian models, 
-    Graphical probabilistic models, Rating systems
+- Machine learning, deep learning, neural networks,  
+    probabilistic graphical models, speech recognition 
 
 
 Publications
@@ -86,13 +87,11 @@ Skills summary
 --------------
 
 - Experience in data aggregating and statistical analysis 
-- Machine learning algorithms, Theano, SQL, Greenplum, PL/R, MapReduce, Hadoop, SAP HANA
+- Machine learning algorithms, Theano, R
 - Programming Languages: 
-    - C++
-    - Java
-    - R
     - Python
-    - Ruby
+    - C++
+    - R
     - Haskell
 - Languages: Russian(native), English(advanced), French(elementary)
 - Certificate: Advanced English course at the St. Petersburg Academic University in 2013
