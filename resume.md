@@ -4,14 +4,14 @@ layout: no-footer
 
 University of Montreal 
 
-Department of Computer Science and Operations Research 
+Montreal Institute for Learning Algorithms (MILA)
 
 
 Education
 ---------
 
 - [University of Montreal][udem], Department of Computer Science and Operations Research,  
-  Montreal Institute for Learning Algorithms ([MILA][mila])
+  Montreal Institute for Learning Algorithms ([MILA][mila]), 
   Ph.D. student 2014 -- present
     - Advisor: [Yoshua Bengio][bengio]
     - Area of study: Machine learning, deep learning
