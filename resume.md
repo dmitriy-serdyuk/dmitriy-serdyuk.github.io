@@ -11,7 +11,7 @@ Education
 ---------
 
 - [University of Montreal][udem], Department of Computer Science and Operations Research,  
-  Montreal Institute for Learning Algorithms (MILA)
+  Montreal Institute for Learning Algorithms ([MILA][mila])
   Ph.D. student 2014 -- present
     - Advisor: [Yoshua Bengio][bengio]
     - Area of study: Machine learning, deep learning
@@ -93,7 +93,7 @@ Skills summary
     - C++
     - R
     - Haskell
-- Languages: Russian(native), English(advanced), French(elementary)
+- Languages: Russian(native), English, French(elementary)
 - Certificate: Advanced English course at the St. Petersburg Academic University in 2013
 
 
@@ -110,3 +110,4 @@ Skills summary
 [optimization]: http://www12.cs.fau.de/edu/fa/2012/Course2/C2_Topics.html
 [factor_graphs]: http://mit.spbau.ru/node/262
 [scholar]: https://scholar.google.ca/citations?user=PsKlNzUAAAAJ&hl=en
+[mila]: https://mila.umontreal.ca/en/
